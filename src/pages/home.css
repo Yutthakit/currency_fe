@@ -1,0 +1,12 @@
+.color-white {
+  color: white;
+}
+.ant-layout-content, .ant-tabs,.ant-tabs-top, .ant-tabs-mobile, .ant-tabs-centered {
+  background-color: #1f1e28;
+  color: aliceblue;
+}
+
+.width-chart {
+  margin: auto;
+  width: 700px;
+}
